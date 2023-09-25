@@ -1,7 +1,7 @@
 # BugSystem_Analysis_Bugzilla_2023 (June/2023 - July/2023)
-Database management with SQL and descriptive analysis with Python on bug records data
+Database management with SQL and descriptive analysis with Python on bug record data
 ## Acknowledgement
-This report has been adapted from the SMM695 final group project and refined to highlight my individual contributions. The link to the original project can be found below:
+This report has been adapted from Bayes (Cass) Business School 2022-2023 MSc Business Analytics SMM695 final group project and refined to highlight my individual contributions. The link to the original project can be found below:
 https://github.com/lyh1068/DBMS-SMM695
 ## Data Source
 Bugzilla - a web-based general-purpose bug tracking system and testing tool originally developed and used by the Mozilla project
